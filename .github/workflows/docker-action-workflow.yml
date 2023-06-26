@@ -16,4 +16,4 @@ jobs:
         with:
           who-to-greet: super-linters
       - name: Print Outputs
-        run: echo "The time was ${{ steps.hello-id.outputs.time }}
+        run: echo "The time was ${{ steps.hello-id.outputs.time }}"
