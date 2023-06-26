@@ -1,4 +1,4 @@
-name: "Hello world docker action"description
+name: "Hello world docker action"
 description: "Our first training docker action"
 inputs:
   who-to-greet:
